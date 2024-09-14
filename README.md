@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayaanhash
-- 👀 I’m interested in leaning
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on linkedin
 - 📫 How to reach me on instagram x._.ayaan_.x
